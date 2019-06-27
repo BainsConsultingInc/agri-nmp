@@ -3,7 +3,7 @@ basicPipeline {
     env = [
         'dev':[:],
         'test':[:],
-        'prod':['params':['host':'nmp.apps.nrs.gov.bc.ca']]
+        'prod':['params':['host':'rajbains.nmp.apps.nrs.gov.bc.ca']]
     ]
     templates = [
         'build':[
