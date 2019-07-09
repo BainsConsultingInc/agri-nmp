@@ -1,6 +1,6 @@
 
 app {
-    name = 'jenkins-agri-nmp'
+    name = 'jenkins-agri-nmp-new'
     namespaces {
         'build'{
             namespace = 'agri-nmp-tools'
