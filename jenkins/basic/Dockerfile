@@ -1,5 +1,5 @@
 RUN echo "Raj Bains Testing"
-FROM 172.30.1.1:5000/jenkins:core
+FROM local/jenkins:core
 
 USER root
 
