@@ -1,4 +1,4 @@
-RUN echo "Raj Bains Testing"
+RUN echo "Raj Bains Testing in agri-nmp jenkins base"
 
 FROM jenkins/basic/here
 
