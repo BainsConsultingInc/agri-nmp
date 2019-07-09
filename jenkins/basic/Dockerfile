@@ -1,4 +1,4 @@
-FROM local/jenkins:core
+FROM 172.30.1.1:5000/jenkins:core
 
 USER root
 
