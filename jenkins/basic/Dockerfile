@@ -1,4 +1,3 @@
-RUN echo "Raj Bains Testing"
 FROM local/jenkins:core
 
 USER root
